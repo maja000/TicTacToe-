@@ -1,0 +1,67 @@
+.buttons {
+  width:30%;
+  font-size:20px;
+  font-weight:bold;
+  font-family:‘Courier New’, Courier, monospace;
+  color:#FFFAFA;
+  text-align:center;
+  display:inline-block;
+  margin:0% 0% 0% 35%;
+}
+
+.buttons button {
+  margin:0% 0% 0% 3%;
+  display:inline-block;
+  width:25%;
+  height:3.5em;
+  float:center;
+  background-color:black;
+  background-repeat:no-repeat;
+  border:none;
+  cursor:pointer;
+  overflow:hidden;
+  outline:none;
+  padding:inherit;
+}
+
+.butt2 {
+  margin-top:3%;
+}
+
+body {
+  /*background-image:url('http://myctrring.com/wp-content/uploads/2009/08/tic_tac_toe.jpg');*/
+  background-size:40%;
+  background-position:50% 20%;
+  background-repeat:no-repeat;
+}
+
+.down {
+  width:70%;
+  font-size:55%;
+  color:#FFFAFA;
+  text-align:center;
+  margin:0% 15%;
+}
+
+.down button {
+  margin:3% 3% 0% 3%;
+  display:inline-block;
+  width:15%;
+  height:30px;
+  background-color:#333333;
+  border:none;
+  float:center;
+}
+
+.wrapper {
+  text-align:center;
+}
+
+h2 {
+  text-align:center;
+  float:center;
+  margin-top:5%;
+  font-family:‘Courier New’, Courier, monospace;
+  font-weight:bold;
+}
+
